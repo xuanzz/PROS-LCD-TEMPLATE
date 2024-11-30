@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "name": "PROS Project",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "c:\\Users\\xuanz\\OneDrive\\Git\\VEX\\High Stakes\\3102\\PROS-1\\include",
+        "c:\\Users\\xuanz\\OneDrive\\Git\\VEX\\High Stakes\\3102\\PROS-LCD-TEMPLATE\\include"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "compilerPath": "c:\\Users\\xuanz\\AppData\\Roaming\\Code\\User\\globalStorage\\sigbots.pros\\install\\pros-toolchain-windows\\usr\\bin\\arm-none-eabi-g++",
+      "cStandard": "gnu11",
+      "cppStandard": "gnu++20",
+      "intelliSenseMode": "gcc-arm",
+      "browse": {
+        "path": [
+          "c:\\Users\\xuanz\\OneDrive\\Git\\VEX\\High Stakes\\3102\\PROS-LCD-TEMPLATE"
+        ],
+        "limitSymbolsToIncludedHeaders": true,
+        "databaseFilename": ""
+      }
+    }
+  ],
+  "version": 4
+}
