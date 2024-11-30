@@ -1,0 +1,4 @@
+bin/_pros_ld_timestamp.o
+bin/hot.package.bin
+bin/hot.package.elf
+bin/main.cpp.o
