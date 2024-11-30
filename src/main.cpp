@@ -93,6 +93,8 @@ void competition_initialize() {}
  */
 void autonomous() {
 	//write your autonomous code here
+	switch (auto_pro)
+	{}
 }
 
 /**
